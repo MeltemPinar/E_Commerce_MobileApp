@@ -1,5 +1,9 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+![Zight Recording 2024-08-21 at 11 23 47 PM (1)](https://github.com/user-attachments/assets/45e4c3ee-c3c2-468a-825c-1558c28ad285)
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
